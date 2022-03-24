@@ -1,6 +1,6 @@
 
 
-# GoIndex-theme-acrou 
+# 🍿[GoIndex-theme-acrou](https://github.com/Aicirou/goindex-theme-acrou)
 Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and [Google Drive](https://www.google.com/drive/) will allow you to index you files on the browser on Cloudflare Workers.    
 
 [go2index/index.js](https://github.com/Aicirou/goindex-theme-acrou/blob/main/go2index/index.js) is the content of the Workers script.  
@@ -8,9 +8,11 @@ Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and
 This theme's goindex is currently based on [yanzai/goindex](https://github.com/yanzai/goindex/).
 ## Demo  
 
-Go to: [https://chill.iitkgp.workers.dev/](https://chill.iitkgp.workers.dev/) 
+🚀 Go to: [https://chill.iitkgp.workers.dev/](https://chill.iitkgp.workers.dev/) 
 
-## Features
+🛠 Quick Development: [here/](https://github.com/Aicirou/goindex-theme-acrou/edit/main/README.md#quick-deployment)
+
+## ✨Features
 
 - [x] 👑 Page-level caching,browser forward and backward without reloading (MAC users have a better experience with the trackpad)
 - [x] 🗂 Multi drive switching
@@ -38,7 +40,7 @@ Go to: [https://chill.iitkgp.workers.dev/](https://chill.iitkgp.workers.dev/)
 2. Auth and get the code
 3. Deploy the code to [Cloudflare Workers](https://www.cloudflare.com/)
 
-## Deployment  
+## Manual Deployment  
 
 1. Open [Google Drive API](https://console.developers.google.com/apis/api/drive.googleapis.com/overview)
 2. Create a [OAuth client ID](https://console.developers.google.com/apis/credentials/oauthclient)
