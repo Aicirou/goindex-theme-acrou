@@ -1,7 +1,7 @@
 
 
 # 🍿[GoIndex-theme-acrou](https://github.com/Aicirou/goindex-theme-acrou)
-Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and [Google Drive](https://www.google.com/drive/) will allow you to index you files on the browser on Cloudflare Workers.    
+Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and [Google Drive](https://www.google.com/drive/) will allow you to index you files on the browser by Using Cloudflare Workers &Google Drive API..    
 
 [go2index/index.js](https://github.com/Aicirou/goindex-theme-acrou/blob/main/go2index/index.js) is the content of the Workers script.  
 
