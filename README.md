@@ -127,7 +127,7 @@ For more option, see APlayer [options](https://aplayer.js.org/#/home?id=options)
 - Optimize search results
 - Optimize page display
 
-## Lisense
+## Lisence
 
 [MIT](LICENSE)
 
