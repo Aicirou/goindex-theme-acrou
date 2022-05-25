@@ -15,3 +15,9 @@ var cdnjs = [
   "https://fastly.jsdelivr.net/npm/lowdb@1.0.0/dist/LocalStorage.min.js",
   "https://at.alicdn.com/t/font_1760192_8add3xcxs4u.js",
 ];
+cdnjs.forEach((item) => {
+  document.write('<script src="' + item + '"></script>');
+});
+scripts.forEach((item) => {
+  document.write('<script src="' + item + '"></script>');
+});
