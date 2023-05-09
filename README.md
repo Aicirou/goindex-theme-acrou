@@ -14,7 +14,7 @@ This theme's goindex is currently based on [yanzai/goindex](https://github.com/y
 
 ## ✨Features
 
-- [x] 👑 Page-level caching,browser forward and backward without reloading (MAC users have a better experience with the trackpad)
+- [x] 👑 Page-level caching,browser forward and backward without reloading (MAC users have a better experience with the trackpad)g
 - [x] 🗂 Multi drive switching
 - [x] 🔐 Http Basic Auth
 - [x] 🎨 Grid view mode(File Preview)
